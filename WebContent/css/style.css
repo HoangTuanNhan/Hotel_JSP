@@ -1,0 +1,40 @@
+#frmLogin{
+		width:555px;
+		border: 1px solid #c6edec;
+		margin: 0 auto;
+	}
+.title {
+	height: 54px;
+	border: 1px solid #00a19b;
+	background-color: #00a19b;
+}
+.title h2{
+	color:white;
+	padding-left: 10px;
+}
+.main{
+	background-color: #c6edec;
+}
+.main label{
+	color:red;
+	padding-left: 20px;
+}
+.nhat{
+	padding-top: 10px;
+	padding-left:5px;
+}
+
+.nhat .ds{
+	width:250px
+}
+.nhat .tong{
+	width:250px;
+	margin-left: 10px;
+	
+}
+.sub{
+	margin-top:10px;
+	margin-bottom:5px;
+	margin-left: 5px;
+	
+}
